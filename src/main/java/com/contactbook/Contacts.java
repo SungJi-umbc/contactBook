@@ -2,20 +2,22 @@ package com.contactbook;
 
 import javafx.beans.property.SimpleStringProperty;
 
-public class Contacts {
+public class Contacts
+{
     private final SimpleStringProperty firstName = new SimpleStringProperty("");
     private final SimpleStringProperty lastName = new SimpleStringProperty("");
-
     private final SimpleStringProperty phoneCell = new SimpleStringProperty("");
     private final SimpleStringProperty address = new SimpleStringProperty("");
     private final SimpleStringProperty emailPrimary = new SimpleStringProperty("");
     private final SimpleStringProperty emailSecondary = new SimpleStringProperty("");
 
-    public Contacts () {
+    public Contacts ()
+    {
         this("", "", "", "","", "");
     }
 
-    public Contacts (String firstName, String lastName, String phoneCell, String address, String emailPrimary, String emailSecondary) {
+    public Contacts (String firstName, String lastName, String phoneCell, String address, String emailPrimary, String emailSecondary)
+    {
         setFirstName(firstName);
         setLastName(lastName);
         setphoneCell(phoneCell);
@@ -24,46 +26,58 @@ public class Contacts {
         setEmailScnd(emailSecondary);
     }
 
-    public String getFirstName() {
+    public String getFirstName()
+    {
         return firstName.get();
     }
-    public void setFirstName(String fName) {
+    public void setFirstName(String fName)
+    {
         firstName.set(fName);
     }
 
-    public String getLastName() {
+    public String getLastName()
+    {
         return lastName.get();
     }
-    public void setLastName(String fName) {
-        lastName.set(fName);
+    public void setLastName(String lName)
+    {
+        lastName.set(lName);
     }
 
-    public String getphoneCell() {
+    public String getphoneCell()
+    {
         return phoneCell.get();
     }
-    public void setphoneCell(String fName) {
-        phoneCell.set(fName);
+    public void setphoneCell(String phoneNum)
+    {
+        phoneCell.set(phoneNum);
     }
 
-    public String getAddress() {
+    public String getAddress()
+    {
         return address.get();
     }
-    public void setAddress(String fName) {
-        address.set(fName);
+    public void setAddress(String add)
+    {
+        address.set(add);
     }
 
-    public void getEmailPrm(String fName) {
-        emailPrimary.set(fName);
+    public String getEmailPrm()
+    {
+        return emailPrimary.get();
     }
-    public void setEmailPrm(String fName) {
-        emailPrimary.set(fName);
+    public void setEmailPrm(String pEmail)
+    {
+        emailPrimary.set(pEmail);
     }
 
-    public String getEmailScnd() {
+    public String getEmailScnd()
+    {
         return emailSecondary.get();
     }
-    public void setEmailScnd(String fName) {
-        emailSecondary.set(fName);
+    public void setEmailScnd(String sEmail)
+    {
+        emailSecondary.set(sEmail);
     }
 }
 

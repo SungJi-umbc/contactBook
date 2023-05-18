@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b149827c-f1e3-4948-a81e-e436f4bf7962" name="Changes" comment="Add `Contacts.java`. This is `Person.java` from the webstite.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/contactbook/Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactbook/Contacts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
