@@ -19,9 +19,20 @@
         <columns>
             <TableColumn text="First Name">
             </TableColumn>
+
             <TableColumn text="Last Name">
             </TableColumn>
-            <TableColumn text="Email Address">
+
+            <TableColumn text="Phone Number">
+            </TableColumn>
+
+            <TableColumn text="Address">
+            </TableColumn>
+
+            <TableColumn text="Primary Email">
+            </TableColumn>
+
+            <TableColumn text="Second Email">
             </TableColumn>
         </columns>
     </TableView>

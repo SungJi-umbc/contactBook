@@ -1,17 +1,9 @@
 package com.contactbook;
 
-import javafx.fxml.FXML;
-import javafx.scene.control.Label;
-
 
 public class ContactBookModel
 {
-    @FXML
-    private Label welcomeText;
+    // model codes
 
-    @FXML
-    protected void onHelloButtonClick()
-    {
-        welcomeText.setText("Welcome to JavaFX Application!");
-    }
+    // pretty sure this is where all the get names and set names go
 }
