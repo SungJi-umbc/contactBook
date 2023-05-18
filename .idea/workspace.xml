@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b149827c-f1e3-4948-a81e-e436f4bf7962" name="Changes" comment="commit">
+    <list default="true" id="b149827c-f1e3-4948-a81e-e436f4bf7962" name="Changes" comment="Add `Contacts.java`. This is `Person.java` from the webstite.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/contactbook/ContactBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactbook/ContactBookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contactbook/Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactbook/Contacts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684372613745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add `Contacts.java`. This is `Person.java` from the webstite.">
+      <created>1684377585666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684377585666</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Add `Contacts.java`. This is `Person.java` from the webstite." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add `Contacts.java`. This is `Person.java` from the webstite." />
   </component>
 </project>
