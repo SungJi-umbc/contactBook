@@ -1,4 +1,4 @@
-package com.example.contactbook;
+package com.contactbook;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

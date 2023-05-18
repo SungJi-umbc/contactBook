@@ -3,6 +3,6 @@ module com.example.contactbook {
     requires javafx.fxml;
 
 
-    opens com.example.contactbook to javafx.fxml;
-    exports com.example.contactbook;
+    opens com.contactbook to javafx.fxml;
+    exports com.contactbook;
 }

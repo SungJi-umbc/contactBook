@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b149827c-f1e3-4948-a81e-e436f4bf7962" name="Changes" comment="" />
+    <list default="true" id="b149827c-f1e3-4948-a81e-e436f4bf7962" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/contactbook/contactBook-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/contactbook/ContactBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactbook/ContactBookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/contactbook/ContactBookModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactbook/ContactBookModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/contactbook/ContactBookView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contactbook/ContactBookView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/contactbook/contactBook-view.fxml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PtjOpa0unW1TPz9ZUemA7OqPLJ" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +58,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684283244543</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1684372613745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684372613745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

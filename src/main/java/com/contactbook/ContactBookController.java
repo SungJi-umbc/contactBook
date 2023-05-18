@@ -1,4 +1,4 @@
-package com.example.contactbook;
+package com.contactbook;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -13,7 +13,7 @@ public class ContactBookController {
     @Override
     public void start(Stage primaryStage) throws Exception {
         primaryStage.setTitle("IS413 SP23 ContactBook");
-        Pane myPane = (Pane) FXMLLoader.load(getClass().getResource("fxml_tableview.fxml"));
+        Pane myPane = (Pane) FXMLLoader.load(getClass().getResource("contactBook-view.fxml"));
         Scene myScene = new Scene(myPane);
         primaryStage.setScene(myScene);
         primaryStage.show();

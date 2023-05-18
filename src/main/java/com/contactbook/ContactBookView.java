@@ -1,4 +1,4 @@
-package com.example.contactbook;
+package com.contactbook;
 
 public class ContactBookView
 {
